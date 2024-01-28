@@ -1,2 +1,2 @@
-# Maxima-and-LaTex
-This repository contain Maxima and LaTex snippets.
+# Maxima-and-LaTeX
+This repository contain Maxima and LaTeX snippets.
