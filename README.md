@@ -1,2 +1,2 @@
-# Maxima-and-LaTeX
-This repository contain Maxima and LaTeX snippets.
+# Maxima, Wolfram Mathematica and LaTeX
+This repository contain Maxima, Wolfram Mathematica notebbok and LaTeX snippets.
